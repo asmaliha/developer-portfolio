@@ -34,6 +34,12 @@ padding-right: 300%;
     color: black ;
 }
 .top-banner{
-background-image: url(images/top-banner.png);
+background-image: url(images/359057.jpg);
 background-repeat: no-repeat;
+}
+h2 {
+    color: coral;
+}
+p {
+    color: beige;
 }
