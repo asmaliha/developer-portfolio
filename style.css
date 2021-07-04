@@ -1,0 +1,39 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+    
+}
+.peru {
+    color: peru ;
+
+}
+.violet {
+    color:blueviolet ;
+}
+section {
+ display: flex;
+}
+.widthkomhobe {
+ width: 50%;
+ padding-left: 5%;
+}
+.widthkomhobe img {
+width: 80%;
+padding-right: 300%;
+}
+.openlink {
+    text-decoration: none;
+    background-image:linear-gradient(yellow, orange );
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-family: cursive ;
+    font-weight: 700;
+    color: black ;
+}
+.top-banner{
+background-image: url(images/top-banner.png);
+background-repeat: no-repeat;
+}
